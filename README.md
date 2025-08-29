@@ -18,6 +18,9 @@ A modern, user-friendly web application that leverages deep learning to classify
 
 ![App Demo](screenshots/app_demo.png)
 
+![App Demo](assets/bars.PNG)
+
+
 ## 🛠️ Technology Stack
 
 - **Frontend**: Streamlit
