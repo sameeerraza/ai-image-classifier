@@ -1,6 +1,4 @@
 from tensorflow.keras.applications.mobilenet_v2 import (MobileNetV2, preprocess_input, decode_predictions)
-import cv2
-import numpy as np
 
 def load_model():
     model = MobileNetV2(weights="imagenet")
