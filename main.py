@@ -1,7 +1,7 @@
 import streamlit as st
 from PIL import Image
 from model import load_model, classify_image
-from utils import preprocess_image
+from image_utils import preprocess_image
 
 def main():
     st.set_page_config(page_title="AI Image Classifier", page_icon="🐱‍👤", layout="centered")
