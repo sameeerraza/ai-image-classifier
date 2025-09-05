@@ -14,9 +14,7 @@ A modern, user-friendly web application that leverages deep learning to classify
 - **Error Handling**: Robust error management for various image formats
 - **Mobile Optimized**: Uses MobileNetV2 for fast, efficient processing
 
-## 🚀 Live Demo
-
-![App Demo](screenshots/app_demo.png)
+## 🚀 Demo
 
 ![App Demo](assets/bars.PNG)
 
