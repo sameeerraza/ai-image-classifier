@@ -3,13 +3,10 @@
 A modern web application that uses deep learning to classify images in real-time. Built with Streamlit and powered by MobileNetV2, this project provides an intuitive interface for image recognition with instant results.
 
 ### Main Interface
-![Main Interface](assets/main-interface.png)
-
-### Image Upload
-![Image Upload](assets/image-upload.png)
+![Main Interface](assets/main-interface.PNG)
 
 ### Classification Results
-![Classification Results](assets/results.png)
+![Classification Results](assets/results.PNG)
 
 ## ✨ Features
 
