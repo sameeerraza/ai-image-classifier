@@ -2,6 +2,9 @@
 
 A modern web application that uses deep learning to classify images in real-time. Built with Streamlit and powered by MobileNetV2, this project provides an intuitive interface for image recognition with instant results.
 
+## 🌐 Live Demo
+**Try it now**: [https://ai-image-classifier-byscott.streamlit.app/]
+
 ### Main Interface
 ![Main Interface](assets/main-interface.PNG)
 
